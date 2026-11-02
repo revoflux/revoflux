@@ -1,7 +1,7 @@
 <div align="center">
 
 # RevoFlux
-### Intelligent Automation & Full-Cycle Digital Engineering
+### Full-Cycle Digital Engineering & Autonomous Business Automation
 
 **We automate the work. You scale the business.**
 
@@ -14,7 +14,7 @@
 </div>
 
 ## 🌐 About RevoFlux
-RevoFlux is a premier digital engineering and AI workflow automation agency. We partner with high-growth SMBs, scale-ups, and modern enterprises across North America, the UK, and Europe to eliminate operational drag, modernize customer-facing applications, and deploy custom AI agent infrastructure.
+RevoFlux is a premier software engineering and intelligent business automation firm. We partner with B2B operators, retail brands, logistics hubs, and modern service businesses across North America, the UK, and Europe to eliminate operational drag, modernize customer-facing applications, and deploy custom enterprise automation systems.
 
 ---
 
@@ -22,22 +22,26 @@ RevoFlux is a premier digital engineering and AI workflow automation agency. We 
 
 | Capability | Core Technologies & Frameworks |
 |---|---|
-| **Custom Web & Mobile Engineering** | Next.js 15, React, TypeScript, Flutter, Node.js, TailwindCSS |
-| **Intelligent AI Workflows & Agents** | Python, LangChain, LiteLLM, Playwright, Vector DBs, OpenAI / Anthropic APIs |
-| **API & Enterprise Integrations** | FastAPI, PostgreSQL, Redis, Stripe, Salesforce, HubSpot Webhooks |
-| **Performance & Conversion Engineering**| Core Web Vitals optimization, Headless CMS, Edge Caching |
+| **Custom Web & Mobile Engineering** | Next.js 15, React 19, TypeScript, Flutter, Node.js, TailwindCSS |
+| **Intelligent AI Workflows & Agents** | Python, LangChain, LiteLLM, Vector DBs, OpenAI / Anthropic APIs |
+| **Retail & Enterprise Systems** | Point of Sale (POS), Multi-Warehouse Inventory (WMS), ERP Ledgers |
+| **Business Process Automation** | n8n, Make, Zapier, Custom HMAC Webhooks, Automated PDF Invoicing |
+| **API & Cloud Architecture** | FastAPI, PostgreSQL, Redis, Stripe, Salesforce, HubSpot Webhooks |
 
 ---
 
-## 🚀 Public Reference Architectures & Starter Kits
+## 🚀 Public Business Solutions & Open Architectures
 
-- 📦 **[`revoflux-ai-agent-engine`](https://github.com/revoflux/revoflux-ai-agent-engine)**: Production-grade asynchronous AI agent workflow automation pipeline for B2B triage.
-- ⚡ **[`revoflux-enterprise-starter`](https://github.com/revoflux/revoflux-enterprise-starter)**: Clean, high-performance Next.js 15 + TypeScript enterprise dashboard boilerplate.
+- 🛒 **[`revoflux-smart-pos`](https://github.com/revoflux/revoflux-smart-pos)**: Modern cloud-native Point of Sale (POS) and retail terminal with offline-first caching and ESC/POS thermal printing.
+- 📦 **[`revoflux-inventory-wms`](https://github.com/revoflux/revoflux-inventory-wms)**: Intelligent multi-location warehouse management and automated reorder point tracking engine.
+- ⚙️ **[`revoflux-business-automations`](https://github.com/revoflux/revoflux-business-automations)**: Production-ready SMB automation workflows (WhatsApp order alerts, AI lead enrichment, automated invoice generation).
+- 🤖 **[`revoflux-ai-agent-engine`](https://github.com/revoflux/revoflux-ai-agent-engine)**: Autonomous multi-agent B2B intelligence and lead qualification pipeline.
+- ⚡ **[`revoflux-enterprise-starter`](https://github.com/revoflux/revoflux-enterprise-starter)**: High-performance Next.js 15 + TypeScript enterprise application boilerplate.
 
 ---
 
 ## 📬 Partner With Us
-Have a software challenge or manual operational bottleneck?
+Have a software challenge, retail system upgrade, or manual operational bottleneck?
 - **Website:** [https://revoflux.app](https://revoflux.app)
 - **Direct Inquiry:** [revoflux.ai@gmail.com](mailto:revoflux.ai@gmail.com)
 - **Founder:** Muhammad Dawood ([LinkedIn](https://www.linkedin.com/in/muhammad-dawood-dev))
